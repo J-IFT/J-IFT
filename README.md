@@ -1,5 +1,6 @@
 - 👋 Hello, je suis @juliette-ift
-- 👀 Mes centres d'intérêt sont la culture japonaise (manga, anime...), les jeux vidéos (MOBA, FPS...) et les animaux.
-- 🌱 Je suis actuellement en deuxième année de bachelor informatique à l'EPSI.
-- ⏳ Je suis à la recherche d'un stage du 3 janvier 2022 au 25 février 2022 en informatique côté Réseau afin de savoir dans quoi je veux me spécialiser pour ma troisième année.
-- 📫 Vous pouvez me retrouver sur Linkedin (lien en bio).
+
+- 📚 Je suis actuellement en deuxième année de bachelor informatique à l'EPSI.
+
+- 📎 Vous pouvez me retrouver sur Linkedin : https://www.linkedin.com/in/julietteinfanti/
+ou sur mon site web perso : https://julietteinfanti.me/

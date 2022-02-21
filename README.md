@@ -1,4 +1,4 @@
-- 👋 Hello, je suis @juliette-ift
+- 👋 Hello, je suis @J-IFT
 
 - 📚 Je suis actuellement en deuxième année de bachelor informatique à l'EPSI.
 

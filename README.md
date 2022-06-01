@@ -6,6 +6,4 @@
 
 - 📎 Linkedin : https://www.linkedin.com/in/julietteinfanti/
 
-- Vous retrouverez la plupart de mes projets sur GitHub avec une vidéo de démonstration et les consignes (les README.md sont de haute qualité, ça vaut le coup).
-
-EN CONSTRUCTION 
+- La plupart de mes projets se trouvent ici avec une vidéo de démonstration et les consignes pour chaque projet (les README.md sont de haute qualité, ça vaut le coup). Tous les projets sont marqués de la mention "PS" ou "PP" au début du nom (PS = projet scolaire, PP = projet personnel). 😊

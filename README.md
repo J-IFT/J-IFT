@@ -1,6 +1,6 @@
 - 👋 Hello, je suis @J-IFT (ou Juliette tout simplement) !
 
-- 📚 Je suis étudiante en deuxième année de bachelor informatique à l'EPSI. Actuellement à la recherche d'une alternance, à partir de septembre 2022, dans l'objectif de préparer le titre de "Concepteur Développeur d’Applications".
+- 📚 Je suis étudiante en troisième année de bachelor informatique à l'EPSI. Actuellement en alternance, chez TESSI, dans l'objectif de préparer le titre de "Concepteur Développeur d’Applications".
 
 - 💻 Mon site web perso : https://julietteinfanti.me/
 

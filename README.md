@@ -2,7 +2,7 @@
 
 - 📚 Je suis étudiante en troisième année de bachelor informatique à l'EPSI. Actuellement en alternance, chez TESSI, dans l'objectif de préparer le titre de "Concepteur Développeur d’Applications".
 
-- 💻 Mon site web perso : https://julietteinfanti.me/
+- 💻 Mon site web perso : https://julietteinfanti.live/
 
 - 📎 Linkedin : https://www.linkedin.com/in/julietteinfanti/
 

@@ -6,4 +6,4 @@
 
 - 📎 Linkedin : https://www.linkedin.com/in/julietteinfanti/
 
-- La plupart de mes projets se trouvent ici avec une vidéo de démonstration et les consignes de chaque projet. (PS = projet scolaire, PP = projet personnel). 😊
+- La plupart de mes projets se trouvent ici avec une vidéo de démonstration et les consignes correspondantes. (PS = projet scolaire, PP = projet personnel). 😊

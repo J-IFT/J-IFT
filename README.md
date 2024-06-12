@@ -1,4 +1,4 @@
-- 👋 Hello, je suis @J-IFT (ou Juliette tout simplement) !
+- 👋 Hello, je suis @J-IFT (ou Juliette tout simplement) ! 😊
 
 - 📚 Je suis étudiante en première année de master informatique à l'EPSI. Actuellement en alternance, dans l'entreprise TESSI, dans l'objectif de préparer le titre de "Expert en informatique et système d'information".
 
@@ -6,4 +6,14 @@
 
 - 📎 Linkedin : https://www.linkedin.com/in/julietteinfanti/
 
-- La plupart de mes projets se trouvent ici avec une vidéo de démonstration et les consignes correspondantes. (PS = projet scolaire, PP = projet personnel). 😊
+- 📌 La plupart de mes projets scolaires se trouvent ici avec les consignes correspondantes à chaque projet. Pour les plus anciens, il y a aussi une vidéo de démonstration !
+
+- PS = projet scolaire, PP = projet personnel
+
+- 🚫 Merci de ne pas plagier mes travaux. Utilisez-les comme source d'inspiration ou pour apprendre, mais veillez à créer vos propres projets.
+
+### License
+
+All my projects are licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. For more details, see the [LICENSE](LICENSE) file in each repository.
+
+This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. [Learn more](https://creativecommons.org/licenses/by-nc-nd/4.0/)

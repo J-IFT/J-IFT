@@ -12,7 +12,7 @@
 
 - 🚫 Merci de ne pas plagier mes travaux. Utilisez-les comme source d'inspiration ou pour apprendre, mais veillez à créer vos propres projets.
 
-### License
+### License ⚠️
 
 All my projects are licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. For more details, see the **LICENSE** file in each repository.
 

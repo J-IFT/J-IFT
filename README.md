@@ -7,8 +7,7 @@
 - 📎 Linkedin : https://www.linkedin.com/in/julietteinfanti/
 
 - 📌 La plupart de mes projets scolaires se trouvent ici avec les consignes correspondantes à chaque projet. Pour les plus anciens, il y a aussi une vidéo de démonstration !
-
-- PS = projet scolaire, PP = projet personnel
+ PS = projet scolaire, PP = projet personnel
 
 - 🚫 Merci de ne pas plagier mes travaux. Utilisez-les comme source d'inspiration ou pour apprendre, mais veillez à créer vos propres projets.
 

@@ -14,6 +14,6 @@
 
 ### License
 
-All my projects are licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. For more details, see the [LICENSE](LICENSE) file in each repository.
+All my projects are licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. For more details, see the **LICENSE** file in each repository.
 
 This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. [Learn more](https://creativecommons.org/licenses/by-nc-nd/4.0/)

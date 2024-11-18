@@ -2,7 +2,7 @@
 
 - 📚 Je suis étudiante en deuxième année de master informatique à l'EPSI. Actuellement en alternance, dans l'entreprise TESSI, dans l'objectif de préparer le titre de "Expert en informatique et système d'information".
 
-- 💻 Mon site web perso : https://julietteinfanti.tech/
+- 💻 Mon site web perso : [https://julietteinfanti.tech/](https://j-ift.github.io/juliette-ift.github.io/)
 
 - 📎 Linkedin : https://www.linkedin.com/in/julietteinfanti/
 
